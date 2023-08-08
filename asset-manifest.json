@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Surya-Mohan_portfolio/static/css/main.387aef2c.css",
-    "main.js": "/Surya-Mohan_portfolio/static/js/main.e6bae43c.js",
+    "main.js": "/Surya-Mohan_portfolio/static/js/main.65bf3397.js",
     "index.html": "/Surya-Mohan_portfolio/index.html",
     "main.387aef2c.css.map": "/Surya-Mohan_portfolio/static/css/main.387aef2c.css.map",
-    "main.e6bae43c.js.map": "/Surya-Mohan_portfolio/static/js/main.e6bae43c.js.map"
+    "main.65bf3397.js.map": "/Surya-Mohan_portfolio/static/js/main.65bf3397.js.map"
   },
   "entrypoints": [
     "static/css/main.387aef2c.css",
-    "static/js/main.e6bae43c.js"
+    "static/js/main.65bf3397.js"
   ]
 }
